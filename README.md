@@ -1,5 +1,6 @@
 # Business-Insights-360
 Business Insights 360, a game-changing project created using Microsoft Power BI. Dive into a dynamic dashboard meticulously crafted to empower Atli Hardware with comprehensive insights across Finance, Sales, Marketing, Supply chain and Executive Departments. Unlocked the full potential of data and driven strategic decisions with precision. 
+
 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWQ5MTRkOTYtMmFhOC00ZGZmLWJjMjgtYWYxMzAyYzhjZTE4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## About Company
